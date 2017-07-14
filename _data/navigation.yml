@@ -1,12 +1,22 @@
 - title: Start
   url: "/"
   side: left
-
-- title: Spectrum
-  url: "/spectrum/"
+  
+- title: Arcade
+  url: "/arcade/"
   side: left
 
 - title: SNES
   url: "/snes/"
   side: left
+
+- title: Spectrum
+  url: "/spectrum/"
+  side: left
+
+- title: Tabletop
+  url: "/tabletop/"
+  side: left
+
+  
   
