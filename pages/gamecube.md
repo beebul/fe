@@ -5,6 +5,8 @@ title: "Nintendo"
 subheadline: "Layouts of Feeling Responsive"
 header:
    #image_fullwidth: "gamecube_header.jpg"
+   pattern: pattern_concrete.jpg
+   title: 'Gamecube'
 permalink: "/gamecube/"
 ---
 <ul>
