@@ -1,8 +1,8 @@
 ---
 layout: page
 show_meta: false
-title: "Nintendo"
-subheadline: "Layouts of Feeling Responsive"
+title: "Super Nintendo"
+subheadline: ""
 header:
    image_fullwidth: "minines_04.jpg"
 permalink: "/snes/"
