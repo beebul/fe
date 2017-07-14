@@ -1,6 +1,6 @@
 ---
 layout: page
-sidebar: none
+sidebar: left
 subheadline: A cartoon exterior hides a suprisingly technical and tricky fighter
 title:  "Super Punch-Out"
 teaser: "Fighters Ready...."

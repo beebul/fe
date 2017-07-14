@@ -27,3 +27,6 @@ Of the hundreds of Spectrum games I owned, this one stands out a little and I th
 ![WTHAS](/gameshots/wthas.gif){: .align-right} 
 
 Released by Silversoft Ltd in 1984 this was a dfds fdsg dg
+
+
+Seadroid

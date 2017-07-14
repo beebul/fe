@@ -5,6 +5,8 @@ title: "Sinclair"
 subheadline: "Thanks for the (48k) Memories Sir Clive"
 header:
    image_fullwidth: "spectrum_header.jpg"
+   title: "Sinclair Spectrum"
+   title-position: left
 permalink: "/spectrum/"
 ---
 <ul>

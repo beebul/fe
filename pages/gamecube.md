@@ -4,7 +4,8 @@ show_meta: false
 title: "Nintendo"
 subheadline: "Layouts of Feeling Responsive"
 header:
-   image_fullwidth: "gamecube_header.jpg"
+   #image_fullwidth: "gamecube_header.jpg"
+   pattern: pattern_concrete.jpg
 permalink: "/gamecube/"
 ---
 <ul>
