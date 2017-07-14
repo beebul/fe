@@ -2,6 +2,15 @@
   url: "/"
   side: left
   
+- title: Franchises
+  url: "/franchises/"
+  side: right
+  dropdown:
+  - title: "Resident Evil"
+    url: "/resident-evil/"
+  - title: "Metal Gear Solid"
+    url: "/metal-gear/"
+  
 - title: Arcade
   url: "/arcade/"
   side: right
