@@ -80,28 +80,28 @@ $topbar-bg-color:  $gamecube-purple; //$body-bg;
 $topbar-bg: $topbar-bg-color;
 
 
-$topbar-dropdown-toggle-color: #F0F8FF;
+$topbar-dropdown-toggle-color: #3E3E3E;
 
 $topbar-link-color: #F0F8FF; //#000;
-$topbar-link-color-hover: #000;
-$topbar-link-color-active: #000;
+$topbar-link-color-hover: #3E3E3E;
+$topbar-link-color-active: #3E3E3E;
 $topbar-link-color-active-hover: #000;
 
 $topbar-dropdown-label-color: #F0F8FF;
-$topbar-dropdown-link-bg-hover: $ci-6;
+$topbar-dropdown-link-bg-hover: $gamecube-spice-orange;
 
-$topbar-link-bg-active: $ci-6; // Active Navigation Link
-$topbar-link-bg-hover: $ci-6;
-$topbar-link-bg-active-hover: $ci-2;
+$topbar-link-bg-active: $gamecube-purple; // Active Navigation Link
+$topbar-link-bg-hover: $gamecube-purple;
+$topbar-link-bg-active-hover: #F0F8FF;
 
 
-$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
-$topbar-dropdown-link-color: #000;
-$topbar-dropdown-link-bg: $ci-2;
+$topbar-dropdown-bg: #F0F8FF; // Background Mobile Navigation
+$topbar-dropdown-link-color: #3E3E3E;
+$topbar-dropdown-link-bg: #F0F8FF;
 
 $topbar-menu-link-color-toggled: $gamecube-purple;
 $topbar-menu-icon-color-toggled: $gamecube-purple;
-$topbar-menu-link-color:#F0F8FF;;
+$topbar-menu-link-color: #F0F8FF;
 $topbar-menu-icon-color: #F0F8FF;
 $topbar-menu-link-color-toggled: $ci-6;
 $topbar-menu-icon-color-toggled: $ci-6;
