@@ -8,7 +8,7 @@ header:
 permalink: "/spectrum/"
 ---
 <ul>
-    {% for post in site.categories.spectrum %}
+    {% for post in site.categories.Spectrum %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>

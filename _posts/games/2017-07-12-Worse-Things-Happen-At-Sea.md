@@ -8,7 +8,7 @@ breadcrumb: true
 tags:
     - post format
 categories:
-    - games
+    - Spectrum
 header:
     title: Worse Things Happen at Sea
     background-color: "#EFC94C;"
