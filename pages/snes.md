@@ -1,11 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "Super Nintendo"
-subheadline: ""
+title: Super Nintendo
 header:
-      image_fullwidth: worse-things-happen-at-sea.jpg
-permalink: "/snes/"
+  image_fullwidth: worse-things-happen-at-sea.jpg
+permalink: /snes/
+published: true
 ---
 <ul>
     {% for post in site.categories.SNES %}
