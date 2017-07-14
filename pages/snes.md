@@ -3,7 +3,7 @@ layout: page
 show_meta: false
 title: Super Nintendo
 header:
-  image_fullwidth: worse-things-happen-at-sea.jpg
+  image_fullwidth: minines_04.jpg
 permalink: /snes/
 published: true
 ---
