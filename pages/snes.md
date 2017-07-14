@@ -4,9 +4,7 @@ show_meta: false
 title: "Nintendo"
 subheadline: "Layouts of Feeling Responsive"
 header:
-   image_fullwidth: "minines_04.jpg" 
-   #pattern: pattern_concrete.jpg
-   title: 'SNES'
+   image_fullwidth: "minines_04.jpg"
 permalink: "/snes/"
 ---
 <ul>
