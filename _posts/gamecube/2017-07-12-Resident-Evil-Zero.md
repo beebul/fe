@@ -6,9 +6,8 @@ teaser: "Nice graphics upgrade, some truely scary moments but doesn't have that 
 categories:
     - Gamecube
 header:
-    image: header_unsplash_2-970x.jpg
-    background-color:  "#304558"
-    caption: Zerø
+    image_fullwidth: "resident-evil-zero.png"
+    caption: "zerø"
 ---
 
 
