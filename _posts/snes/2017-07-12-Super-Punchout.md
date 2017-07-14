@@ -1,13 +1,22 @@
 ---
-title: "Super Punchout"
-categories:
-  - SNES
+layout: page
+sidebar: none
+subheadline: A cartoon exterior hides a suprisingly technical and tricky fighter
+title:  "Super Punch-Out"
+teaser: "Fighters Ready...."
+breadcrumb: true
 tags:
-  - image
-  - comments
-layout: single
+    - post format
+categories:
+    - SNES
+header:
+    title: Worse Things Happen at Sea
+    background-color: "#EFC94C;"
+    pattern: pattern_concrete.jpg
+    #image_fullwidth: worse-things-happen-at-sea.jpg
+    caption: This is a caption for the header image with link
+    #caption_url: https://unsplash.com/
 ---
-
 
 A cartoon exterior hides a suprisingly technical and tricky fighter.
 
