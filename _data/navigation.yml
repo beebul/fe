@@ -4,19 +4,23 @@
   
 - title: Arcade
   url: "/arcade/"
-  side: left
+  side: right
+  
+- title: Gamecube
+  url: "/gamecube/"
+  side: right
 
 - title: SNES
   url: "/snes/"
-  side: left
+  side: right
 
 - title: Spectrum
   url: "/spectrum/"
-  side: left
+  side: right
 
 - title: Tabletop
   url: "/tabletop/"
-  side: left
+  side: right
 
   
   
