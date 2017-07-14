@@ -4,7 +4,7 @@ show_meta: false
 title: "Super Nintendo"
 subheadline: ""
 header:
-   pattern: minines_04.jpg
+      image_fullwidth: worse-things-happen-at-sea.jpg
 permalink: "/snes/"
 ---
 <ul>
